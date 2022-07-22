@@ -1,5 +1,18 @@
-.header-logo{
-background-color: #1F2937;
+
+.header-top div{
+  display: flex;
+  background-color: #1F2937;
+  justify-content: center;
+}
+
+.logo-strong{
+  color: #E5E7EB;
+  font-size: 24px;
+  font-family: roboto;
+  }
+
+div.header-links{
+margin-left: 1080px;
 color: #E5E7EB;
 font-size: 24px;
 font-family: roboto;
