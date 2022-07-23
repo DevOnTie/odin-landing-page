@@ -21,13 +21,15 @@ font-family: Roboto;
   margin-left: 1080px;
   color: #E5E7EB;
   font-size: 18px;
-  font-family: Roboto;~
+  font-family: Roboto;
 }
+
 .header-lower div{
   display: flex;
   background-color: #1F2937;
   flex-direction: column;
   padding-right: 50px;
+  align-items: center;
 }
 
 .awesome-title{
@@ -35,17 +37,26 @@ font-family: Roboto;
   font-size: 48px;
   font-family: Roboto;
   font-weight: 600px;
-  align-content: center;
 }
 
 .awesome-text{
   color: #E5E7EB;
   font-size: 18px;
   font-family: Roboto;
-  align-content: center;
+  padding-left: 65px;
 }
 
-.button{
-  border: round;
+.signup-button{
   background-color: #3882F6;
+  border-radius: 8px;
+  color: #E5E7EB;
+  padding-top:5px;
+  padding-left:10px;
+  padding-right:10px;
+  padding-bottom:5px;
+  font-size: 18px;
+}
+
+.img-placehold{
+  background-color: #E5E7EB;
 }
